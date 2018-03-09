@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My New Hugo</title>
-    <link>http://snowwhite8887.github.io/post/</link>
+    <link>https://snowwhite8887.github.io/post/</link>
     <description>Recent content in Posts on My New Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 08 Mar 2018 11:56:18 +0800</lastBuildDate>
     
-	<atom:link href="http://snowwhite8887.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://snowwhite8887.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First</title>
-      <link>http://snowwhite8887.github.io/post/first/</link>
+      <link>https://snowwhite8887.github.io/post/first/</link>
       <pubDate>Thu, 08 Mar 2018 11:56:18 +0800</pubDate>
       
-      <guid>http://snowwhite8887.github.io/post/first/</guid>
+      <guid>https://snowwhite8887.github.io/post/first/</guid>
       <description> Hello Hugo  aaa bbb ccc  </description>
     </item>
     
